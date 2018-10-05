@@ -8,6 +8,7 @@ Informazioni e collegamenti utili per il corso di SSRI online
 * [Simulatore volumi tasse](http://studente.divsi.unimi.it/simulatore/checkLogin.asp?0)
 * [Cartella condivisa SSRI online](https://drive.google.com/drive/u/3/folders/1TTO5jZ4Mq5Sfx-H4ulAQYVs4sbl5b0DO)
 * [Calendario SSRI generale (copia su proprio account)](https://calendar.google.com/calendar/b/3/r?cid=c3NyaS51bmltaUBnbWFpbC5jb20)
+* [Copia gratuita pacchetto Office365 (con email università)](https://products.office.com/it-it/student/office-in-education)
 
 ### Iter esami
 Per affrontare gli esami, vi sono due vie possibili:
