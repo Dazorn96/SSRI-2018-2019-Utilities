@@ -8,3 +8,8 @@ Informazioni e collegamenti utili per il corso di SSRI online
 * [Simulatore volumi tasse](http://studente.divsi.unimi.it/simulatore/checkLogin.asp?0)
 * [Cartella condivisa SSRI online](https://drive.google.com/drive/u/3/folders/1TTO5jZ4Mq5Sfx-H4ulAQYVs4sbl5b0DO)
 * [Calendario SSRI generale (copia su proprio account)](https://calendar.google.com/calendar/b/3/r?cid=c3NyaS51bmltaUBnbWFpbC5jb20)
+
+### Iter esami
+Per affrontare gli esami, vi sono due vie possibili:
+1. Seguire il percorso fornito dal corso online, attraverso lo svolgimento di "compitini" - ovvero mini-esami per ogni materia - periodici.
+2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
