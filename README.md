@@ -13,3 +13,8 @@ Informazioni e collegamenti utili per il corso di SSRI online
 Per affrontare gli esami, vi sono due vie possibili:
 1. Seguire il percorso fornito dal corso online, attraverso lo svolgimento di "compitini" - ovvero mini-esami per ogni materia - periodici.
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
+
+### OFA
+Chiunque abbia ottenuto un punteggio minore di 10 nel **Test di ammissione** - visibile da graduatoria o dal proprio account CISIA - avrà la possibilità di accedere ad un corso online di recupero per quella materia.
+**Per accedervi è necessario portare la ricevuta di pagamento (effettuato) il 13/10/2018 a Crema. Chiunque non riuscirà a venire, verrà contattato in sede diversa.**
+Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esame di recupero passando l'esame di Matematica del Continuo**.
