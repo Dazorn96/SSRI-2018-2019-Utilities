@@ -1,4 +1,4 @@
-# SSRI-2018-2019-Utilities
+# SSRI(online) 2018/2018 - Utilità
 Informazioni e collegamenti utili per il corso di SSRI online
 
 ### Collegamenti
