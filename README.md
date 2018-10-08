@@ -24,7 +24,7 @@ Per affrontare gli esami, vi sono due vie possibili:
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
 
 <p align="center">
-  <img width="460" height="300" alt="Percorso online" src="https://preview.ibb.co/epOS8p/calendario_appelli_dedicati_Ianno.jpg">
+  <img width="460" height="400" alt="Percorso online" src="https://preview.ibb.co/epOS8p/calendario_appelli_dedicati_Ianno.jpg">
 </p>
 
 ### OFA
