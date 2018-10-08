@@ -21,11 +21,12 @@ Informazioni e collegamenti utili per il corso di SSRI online
 ### Iter esami
 Per affrontare gli esami, vi sono due vie possibili:
 1. Seguire il percorso fornito dal corso online, attraverso lo svolgimento di "compitini" - ovvero mini-esami per ogni materia - periodici.
-2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
 
 <p align="center">
   <img width="460" height="400" alt="Percorso online" src="https://preview.ibb.co/epOS8p/calendario_appelli_dedicati_Ianno.jpg">
 </p>
+
+2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
 
 ### OFA
 Chiunque abbia ottenuto un punteggio minore di 10 nel **Test di ammissione** in **Matematica** - visibile da graduatoria o dal proprio account CISIA - avrà la possibilità di accedere ad un corso online di recupero per quella materia.
