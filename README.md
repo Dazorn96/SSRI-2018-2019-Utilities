@@ -29,11 +29,7 @@ Per affrontare gli esami, vi sono due vie possibili:
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
 
 ### OFA
-Chiunque abbia ottenuto un punteggio minore di 10 nel **Test di ammissione** in **Matematica** - visibile da graduatoria o dal proprio account CISIA - avrà la possibilità di accedere ad un corso online di recupero per quella materia.
-
-**Per accedervi è necessario portare la ricevuta di pagamento (effettuato) della prima tassa da 156€ il 13/10/2018 a Crema. Chiunque non riuscirà a venire, verrà contattato in sede diversa.**
-
-Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esame di recupero passando l'esame di Matematica del Continuo**.
+Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esame di recupero passando l'esame di Matematica del Continuo**. **La data dell'esame è il 14 Dicembre ed è unica su tutta l'annata scolastica!**
 
 ### Preparazione esame di inglese (B1)
 * [Test (online) da 20 domande per capire il proprio livello](https://it.testsworld.net/test-dinglese-livello-b1.html)
