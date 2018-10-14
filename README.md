@@ -40,3 +40,6 @@ Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esam
 * [Listening test per capire il proprio livello](https://www.examenglish.com/PET/pet_listening_part1.htm)
 * [Dispensa (.pdf) contenente grammatica, lessico e precisazioni sul parlato](http://s000.tinyupload.com/download.php?file_id=82902304023195961989&t=8290230402319596198936593)
 * [Esame B1 per preparaziene all'esame](http://www.cli.unipi.it/idoneita-di-ateneo/inglese/simulazione-del-test-di-idoneita-di-inglese)
+
+### Preparazione esame di recupero matematica (OFA)
+* [Teoria, esercizi, soluzioni Ariel](https://minimat.ariel.ctu.unimi.it/v5/frm3/ThreadList.aspx?name=contenuti&roomName=minicorso)
