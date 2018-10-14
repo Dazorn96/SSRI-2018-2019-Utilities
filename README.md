@@ -28,6 +28,11 @@ Per affrontare gli esami, vi sono due vie possibili:
 
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
 
+Prossimo step SSRI online il 30/11-01/12:
+* Compitino Matematica del discreto
+* Compitino Matematica del continuo
+* Esame programmazione
+
 ### OFA
 Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esame di recupero passando l'esame di Matematica del Continuo**. **La data dell'esame è il 14 Dicembre ed è unica su tutta l'annata scolastica!**
 
