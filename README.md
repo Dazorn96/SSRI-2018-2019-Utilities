@@ -33,6 +33,18 @@ Prossimo step SSRI online il 30/11-01/12:
 * Compitino Matematica del continuo
 * Esame programmazione
 
+### Libri consigliati (riedizioni)
+**Matematica del continuo**
+* [J.P. Cecconi, G. Stampacchia - Analisi matematica: 1](https://www.amazon.it/s/ref=nb_sb_noss_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=analisi+matematica+1+cecconi+stampacchia&rh=i%3Aaps%2Ck%3Aanalisi+matematica+1+cecconi+stampacchia)
+**Matematica del discreto**
+* [M. Bianchi, A. Gillio - Introduzione alla matematica discreta](https://www.amazon.it/s/ref=nb_sb_noss_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=introduzione+alla+matematica+discreta+bianchi&rh=i%3Aaps%2Ck%3Aintroduzione+alla+matematica+discreta+bianchi)
+* [A. Alzati, M. Cariboni - Matematica discreta: esercizi](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=matematica+discreta+esercizi+alzati+cariboni&rh=i%3Aaps%2Ck%3Amatematica+discreta+esercizi+alzati+cariboni)
+**Programmazione**
+* [E. Gamma, R. Helm - Design patterns](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=design+patterns+gamma+helm&rh=i%3Aaps%2Ck%3Adesign+patterns+gamma+helm)
+* [E. Knuth - The art of computer programming](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=the+art+of+computer+programming+knuth&rh=i%3Aaps%2Ck%3Athe+art+of+computer+programming+knuth)
+* [N. Wirth - Algoritmi + strutture dati = programmi](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=algoritmi+%2B+strutture+dati+wirth&rh=i%3Aaps%2Ck%3Aalgoritmi+%2B+strutture+dati+wirth)
+* [G. Pighizzini - Dai fondamenti agli oggetti corso di programmazione java](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=dai+fondamenti+agli+oggetti+corso+di+programmazione+java+pighizzini&rh=i%3Aaps%2Ck%3Adai+fondamenti+agli+oggetti+corso+di+programmazione+java+pighizzini)
+
 ### OFA
 Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esame di recupero passando l'esame di Matematica del Continuo**. **La data dell'esame è il 14 Dicembre ed è unica su tutta l'annata scolastica!**
 
