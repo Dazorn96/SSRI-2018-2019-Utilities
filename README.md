@@ -58,3 +58,8 @@ Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esam
 
 ### Preparazione esame di recupero matematica (OFA)
 * [Teoria, esercizi, soluzioni Ariel](https://minimat.ariel.ctu.unimi.it/v5/frm3/ThreadList.aspx?name=contenuti&roomName=minicorso)
+
+**Test presenti sulla piattaforma Pearson**
+* Andare sulla scheda *Attività*
+* Eseguire il test *Test 0: test di ingresso*
+* Eseguire i test dei moduli successivi
