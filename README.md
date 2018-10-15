@@ -63,3 +63,4 @@ Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esam
 * Andare sulla scheda *Attività*
 * Eseguire il test *Test 0: test di ingresso*
 * Eseguire i test dei moduli successivi
+**N.B.: ogni lunedì vengono sbloccati i test dei moduli successivi**
