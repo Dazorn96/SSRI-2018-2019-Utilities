@@ -62,5 +62,4 @@ Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esam
 **Test presenti sulla piattaforma Pearson**
 * Andare sulla scheda *Attività*
 * Eseguire il test *Test 0: test di ingresso*
-* Eseguire i test dei moduli successivi
-**N.B.: ogni lunedì vengono sbloccati i test dei moduli successivi**
+* Eseguire i test dei moduli successivi, **ogni lunedì vengono sbloccati i test dei moduli successivi**
