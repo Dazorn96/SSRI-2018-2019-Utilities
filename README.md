@@ -36,9 +36,11 @@ Prossimo step SSRI online il 30/11-01/12:
 ### Libri consigliati (riedizioni)
 **Matematica del continuo**
 * [J.P. Cecconi, G. Stampacchia - Analisi matematica: 1](https://www.amazon.it/s/ref=nb_sb_noss_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=analisi+matematica+1+cecconi+stampacchia&rh=i%3Aaps%2Ck%3Aanalisi+matematica+1+cecconi+stampacchia)
+
 **Matematica del discreto**
 * [M. Bianchi, A. Gillio - Introduzione alla matematica discreta](https://www.amazon.it/s/ref=nb_sb_noss_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=introduzione+alla+matematica+discreta+bianchi&rh=i%3Aaps%2Ck%3Aintroduzione+alla+matematica+discreta+bianchi)
 * [A. Alzati, M. Cariboni - Matematica discreta: esercizi](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=matematica+discreta+esercizi+alzati+cariboni&rh=i%3Aaps%2Ck%3Amatematica+discreta+esercizi+alzati+cariboni)
+
 **Programmazione**
 * [E. Gamma, R. Helm - Design patterns](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=design+patterns+gamma+helm&rh=i%3Aaps%2Ck%3Adesign+patterns+gamma+helm)
 * [E. Knuth - The art of computer programming](https://www.amazon.it/s/ref=nb_sb_noss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=the+art+of+computer+programming+knuth&rh=i%3Aaps%2Ck%3Athe+art+of+computer+programming+knuth)
