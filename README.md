@@ -9,6 +9,8 @@ Informazioni e collegamenti utili per il corso di SSRI online
 * [Cartella condivisa SSRI online](https://drive.google.com/drive/u/3/folders/1TTO5jZ4Mq5Sfx-H4ulAQYVs4sbl5b0DO)
 * [Calendario SSRI generale (copia su proprio account)](https://calendar.google.com/calendar/b/3/r?cid=c3NyaS51bmltaUBnbWFpbC5jb20)
 * [Copia gratuita pacchetto Office365 (con email università)](https://products.office.com/it-it/student/office-in-education)
+* [AWS Educate (con email università)](https://aws.amazon.com/education/awseducate/)
+* [Students Github pack](https://education.github.com/pack)
 
 ### Siti Università
 * [Sede di Crema](http://www.ccdinfcr.unimi.it/it/index.html)
