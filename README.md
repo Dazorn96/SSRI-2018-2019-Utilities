@@ -20,6 +20,17 @@ Informazioni e collegamenti utili per il corso di SSRI online
 * [Portale SSRI](https://elearning.unimi.it/authentication/skin/moodlessri/login.aspx?c=true&url=http://ssrionline.unimi.it/login/index.php)
 * [Videolezioni Crema anni passati](https://videolezionicrema.ariel.ctu.unimi.it/v5/home/Default.aspx)
 
+### Certificazione
+* [Cybersecurity Certification](https://www.isc2.org/Certifications/CISSP)
+
+### Corsi
+* [Coursera](https://www.coursera.org/)
+* [EDX](https://www.edx.org/)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+* [PluralSight](https://www.pluralsight.com/)
+* [EggHead](https://egghead.io/)
+* [FrontendMasters](https://frontendmasters.com/)
+
 ### Iter esami
 Per affrontare gli esami, vi sono due vie possibili:
 1. Seguire il percorso fornito dal corso online, attraverso lo svolgimento di "compitini" - ovvero mini-esami per ogni materia - periodici.
