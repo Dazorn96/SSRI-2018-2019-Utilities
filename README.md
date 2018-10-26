@@ -30,6 +30,7 @@ Informazioni e collegamenti utili per il corso di SSRI online
 * [PluralSight](https://www.pluralsight.com/)
 * [EggHead](https://egghead.io/)
 * [FrontendMasters](https://frontendmasters.com/)
+* [Udacity](https://eu.udacity.com/)
 
 ### Iter esami
 Per affrontare gli esami, vi sono due vie possibili:
