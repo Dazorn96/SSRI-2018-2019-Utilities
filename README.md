@@ -19,6 +19,7 @@ Informazioni e collegamenti utili per il corso di SSRI online
 * [WebMail](https://cas.unimi.it/login?service=https://securemail.unimi.it/webmail/)
 * [Portale SSRI](https://elearning.unimi.it/authentication/skin/moodlessri/login.aspx?c=true&url=http://ssrionline.unimi.it/login/index.php)
 * [Videolezioni Crema anni passati](https://videolezionicrema.ariel.ctu.unimi.it/v5/home/Default.aspx)
+* [Portale SSRI 2016](https://sites.google.com/view/class-ssri2016/)
 
 ### Certificazione
 * [Cybersecurity Certification](https://www.isc2.org/Certifications/CISSP)
