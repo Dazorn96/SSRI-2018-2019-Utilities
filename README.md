@@ -43,11 +43,6 @@ Per affrontare gli esami, vi sono due vie possibili:
 
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
 
-Prossimo step SSRI online il 30/11-01/12:
-* Compitino Matematica del discreto
-* Compitino Matematica del continuo
-* Esame programmazione
-
 ### Libri consigliati (riedizioni)
 **Matematica del continuo**
 * [J.P. Cecconi, G. Stampacchia - Analisi matematica: 1](https://www.amazon.it/s/ref=nb_sb_noss_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=analisi+matematica+1+cecconi+stampacchia&rh=i%3Aaps%2Ck%3Aanalisi+matematica+1+cecconi+stampacchia)
