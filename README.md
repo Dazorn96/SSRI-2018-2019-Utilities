@@ -38,7 +38,7 @@ Per affrontare gli esami, vi sono due vie possibili:
 1. Seguire il percorso fornito dal corso online, attraverso lo svolgimento di "compitini" - ovvero mini-esami per ogni materia - periodici.
 
 <p align="center">
-  <img width="460" height="400" alt="Percorso online" src="https://preview.ibb.co/epOS8p/calendario_appelli_dedicati_Ianno.jpg">
+  <img width="460" height="400" alt="Percorso online" src="https://i.ibb.co/gtYHdV4/Whats-App-Image-2019-09-24-at-13-30-54.jpg">
 </p>
 
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
@@ -59,6 +59,8 @@ Per affrontare gli esami, vi sono due vie possibili:
 
 ### OFA
 Per quanto riguarda l'OFA di Matematica, sarà possibile **non effettuare l'esame di recupero passando l'esame di Matematica del Continuo**. **La data dell'esame è il 14 Dicembre ed è unica su tutta l'annata scolastica!**
+
+**N.B.: Se non passate il l'esame di recupero, sarà necessario dover passare MDC per proseguire con il secondo anno.**
 
 ### Preparazione esame di inglese (B1)
 * [Test (online) da 20 domande per capire il proprio livello](https://it.testsworld.net/test-dinglese-livello-b1.html)
