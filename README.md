@@ -38,7 +38,7 @@ Per affrontare gli esami, vi sono due vie possibili:
 1. Seguire il percorso fornito dal corso online, attraverso lo svolgimento di "compitini" - ovvero mini-esami per ogni materia - periodici.
 
 <p align="center">
-  <img width="460" height="400" alt="Percorso online" src="https://i.ibb.co/gtYHdV4/Whats-App-Image-2019-09-24-at-13-30-54.jpg">
+  <img alt="Percorso online" src="https://i.ibb.co/gtYHdV4/Whats-App-Image-2019-09-24-at-13-30-54.jpg">
 </p>
 
 2. Seguire il percorso normale (da frequentante) svolgendo gli esami completi per ogni materia nelle date stabilite.
